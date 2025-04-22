@@ -19,8 +19,6 @@ st.set_page_config(
 )
 
 # --- Test Cases ---
-json_placeholder = r"{\"data_name\": data_value}"
-
 json_test_case = """{
   "type_of_meal_plan": "Meal Plan 2",
   "room_type_reserved": "Room_Type 4",
